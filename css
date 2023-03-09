@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Lobster;
+    src: url("../fuentes/Lobster/Lobster-Regular.ttf");
+}
+@font-face {
+    font-family: Cabin;
+    src: url("../fuentes/Cabin/Cabin-Italic-VariableFont_wdth\,wght.ttf"),
+    url("../fuentes/Cabin/Cabin-VariableFont_wdth\,wght.ttf");
+}
