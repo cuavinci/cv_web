@@ -1,0 +1,14 @@
+Se creron varios botones para que el usuario interactue. 
+Se uso una funcion con un Swith para cada boton respondiera a un solo "case", 
+hubo fallas, por lo que se regreso a la version original, separando cada "case".
+Para no simplificar demasiado la web y hacer uso de lo aprendido, se creo un select
+con el cual el usuario interactuara, cumple la misma funcion que los botones, 
+pero en este caso se puso hacer uso de un Swith con exito. 
+
+
+
+
+
+
+
+
